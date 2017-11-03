@@ -1,0 +1,14 @@
+.ng-invalid { }
+.ng-valid { }
+.ng-untouched { }
+.ng-touched { }
+.ng-dirty { }
+.ng-pristine { }
+
+span {
+    color: red;
+}
+
+.submit.ng-valid{
+    color: green;
+}
